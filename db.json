@@ -4,7 +4,8 @@
 			"id": 1,
 			"name": "Leanne Graham",
 			"username": "Bret",
-			"email": "abc@gmail.com",
+			"email": "abc@xyz.com",
+			"password": 123,
 			"saved_image": [
 				{
 					"id": 1,
