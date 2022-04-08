@@ -363,21 +363,5 @@
 			"id": 17
 		}
 	],
-	"saved_image": [
-		{
-			"id": 1,
-			"img_url": "https://i.pinimg.com/236x/26/21/df/2621df15c7d12b5cac85517887e8eca9.jpg",
-			"liked": true
-		},
-		{
-			"id": 2,
-			"img_url": "https://i.pinimg.com/550x/46/13/5b/46135bb6dfe9e43adb5302fe85bed6e2.jpg",
-			"liked": true
-		},
-		{
-			"id": 3,
-			"img_url": "https://i.pinimg.com/550x/43/af/6f/43af6f5aa4df62b5bc7748e40f46f4c4.jpg",
-			"liked": true
-		}
-	]
+	"saved_image": []
 }
