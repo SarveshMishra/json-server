@@ -2,9 +2,9 @@
 	"users": [
 		{
 			"id": 1,
-			"name": "Sarvesh Mishra",
-			"username": "smishra",
-			"email": "officialsmishra@gmail.com",
+			"name": "Leanne Graham",
+			"username": "Bret",
+			"email": "abc@xyz.com",
 			"password": 123,
 			"saved_image": [
 				{
@@ -24,10 +24,10 @@
 				}
 			],
 			"public_profile": {
-				"profile_img": "https://dsm01pap006files.storage.live.com/y4mQtWseafDY7LK1jUMAx_avTTyjhDJ6d9cSQ36-j5o36k7_SlNoM8FhIV3Ol-bfrb-LrkjMtOik5GwtIPzXSMmuE32pv-pKQiFSEPu-uTRxPozdqfkb1advMPaUHKrCOToh5-MjM9jXQW1q6haU4bBwU9XTm8lwHawshzGm4mNLkOWtYbkMF5fAtgGSOilqSss?width=256&height=256&cropmode=none",
-				"name": "Sarvesh Mishra",
-				"username": "smishra",
-				"email": "officialsmishra@gmail.com",
+				"profile_img": "",
+				"name": " Leanne Graham",
+				"username": "Bret",
+				"email": "abc@xyz.com",
 				"age": 25,
 				"about": "Hello World",
 				"website": "https://www.google.com/",
